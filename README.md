@@ -41,7 +41,7 @@ Methodology:
   6. CCA (Connected Component Analysis): for detecting License Plate and segmenting Characters
      Functions Used: skimage.measure.label and skimage.measure.regionprops 
      
-     Assumptions used in this code: 
+     Assumptions used in this code: (change it accordingly)
      height of the license plate = 6% - 18% of the height of the cropped truck image 
      width of the license plate = 8.5% - 20% of the width of the cropped truck image 
      height of the characters to be segmented = 18.75% - 37.5% of the height of the license plate 
