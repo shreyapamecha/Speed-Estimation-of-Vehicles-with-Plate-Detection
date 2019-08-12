@@ -60,4 +60,7 @@ Limitations:
   4. The license plate, occasionally, are covered with dust or are veiled by a rod in the front or are not even there, thereby not            letting the detection possible.
   5. Old trucks cannot be identified because the machine is trained using only new models of trucks.
   
-  
+ #### Inspired by https://github.com/apoorva-dave/LicensePlateDetector/blob/master/DetectPlate.py
+ #### Reference: https://github.com/kraten/vehicle-speed-check
+ 
+ 
