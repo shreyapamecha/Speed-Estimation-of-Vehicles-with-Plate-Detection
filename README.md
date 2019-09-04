@@ -4,7 +4,7 @@ The main objective of this project is to identify overspeed vehicles, using Deep
 To run Speed_Detection_&_License_Plate_Detection.py, follow these steps below:
   1. Download IDLE python from this site: 'https://www.python.org/downloads/'
   2. Install OpenCV and dlib libraries from: 'https://www.learnopencv.com/install-dlib-on-windows/'
-  3. Install these other libraries as well: skimage, sklearn, openpyxl, threading, time, joblib, numpy, matplotlib, datetime, & os.
+  3. Install these other libraries as well: skimage, sklearn, openpyxl, threading, time, joblib, numpy, matplotlib, datetime, dlib & os.
   4. Through Command Prompt, run this code. (Make sure to change the directories)
  
 Methodology: 
