@@ -66,4 +66,4 @@ Limitations:
  
  
  
-#Note: The technique (image processing) used to solve this Machine Learning problem is outdated now. You would be able to achieve better results if you use YOLOv3 (https://pjreddie.com/yolo/) object detector for truck detection and character recognition.
+#Note: The technique (image processing) used to solve this Machine Learning problem is outdated now. You would be able to achieve better results if you use YOLOv3 (https://pjreddie.com/yolo/) object detector for truck detection and character recognition and fine-tuning of VGG16 model for character segmentation.
